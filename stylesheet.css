@@ -1,0 +1,61 @@
+*{
+	
+	font-family: monospace;, Verdana, sans-serif;
+	color: #000000;
+	text-align: center;
+	
+}
+
+body {
+	background-color: #FBDBE6;
+	width: 990px;
+	margin: 0 auto;
+	border: groove;
+	
+}
+
+h1{
+	background-color: #FFFAF0;
+	font-size: 400%
+}
+
+nav {
+	background-color: #FBDBE6;
+	font-size: 130%;
+	padding: 12px;
+	margin: 4px;
+	
+}
+
+li {
+	display: inline;
+	padding: 10px;
+	
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+	
+}
+
+main{
+	background-color: #FFFAF0;
+	padding: 18px;
+	margin: 12px;
+
+}
+
+article {
+	background-color: #FFFAF0;
+	padding: 8px;
+	margin: 16px;
+}
+
+.mart{
+	text-align: left;
+}
+
+p{
+	font-size: 120%;
+}
